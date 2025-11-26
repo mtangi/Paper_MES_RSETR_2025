@@ -3,3 +3,5 @@ This repository contains the code employed to derive the results described in th
 The CALLIOPE model is available from its website at https://www.callio.pe/
 
 The SAFE toolbox and the PAWN global sensitivity analysis method are available at https://safetoolbox.github.io/
+
+Scenario discovery is performed using EMA Workbench https://emaworkbench.readthedocs.io/en/latest/ema_documentation/analysis/prim.html
