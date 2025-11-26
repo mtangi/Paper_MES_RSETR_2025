@@ -432,3 +432,4 @@ plot_pairwise_heatmaps_smooth_soft_orange_blue(
     X, Y, box, best_id, active_vars, 'Storage' , name_dict=name_dict, cbar_label="Solutions with new storage installation [%]"
 )
 
+
